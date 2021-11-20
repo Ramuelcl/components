@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'Guzanet'),
 
     /*
     |--------------------------------------------------------------------------
@@ -165,7 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
-App\Providers\FortifyServiceProvider::class,
+        App\Providers\FortifyServiceProvider::class,
         /*
          * Application Service Providers...
          */
